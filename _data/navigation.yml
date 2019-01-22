@@ -1,0 +1,20 @@
+main:
+  - title: "Guides"
+    url: /docs/intro/
+  - title: "Links"
+    url: /docs/libraries/
+  - title: "Posts"
+    url: /year-archive/
+
+docs:
+  - title: Guides
+    children:
+      - title: "Coming Soon"
+        url: #
+
+  - title: Links
+    children:
+      - title: "Libraries"
+        url: /docs/libraries/
+      - title: "Utilities"
+        url: /docs/utilities/

@@ -1,0 +1,14 @@
+benjamin_dobell:
+  name: Benjamin Dobell
+  bio: Bends computers to his will for a living.
+  avatar: /assets/images/authors/benjamin_dobell.jpg
+  links:
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:contact@glassechidna.com.au
+    - label: Github
+      icon: fab fa-fw fa-github
+      url: https://github.com/Benjamin-Dobell
+    - label: Tabletop Simulator
+      icon: fab fa-fw fa-steam
+      url: https://steamcommunity.com/id/benjamin_dobell/myworkshopfiles/?appid=286160
