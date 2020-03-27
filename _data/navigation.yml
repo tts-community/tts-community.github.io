@@ -9,8 +9,8 @@ main:
 docs:
   - title: Guides
     children:
-      - title: "Coming Soon"
-        url: #
+      - title: "External Guides"
+        url: /docs/external-guides/
 
   - title: Links
     children:
