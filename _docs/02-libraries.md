@@ -5,7 +5,7 @@ last_modified_at: 2020-03-27T13:30:00+11:00
 ---
 
 
-# Tabletop Simulator Specific Libraries
+## Tabletop Simulator Specific Libraries
 
 Libraries specifically written for Tabletop Simulator modding.
 
@@ -14,7 +14,7 @@ Libraries specifically written for Tabletop Simulator modding.
 | [Decker](https://github.com/tjakubo2/Decker) | Dynamically create/spawn decks (and cards) with minimal fuss. |
 | [ge_tts](https://gitlab.com/BenjaminDobell/ge_tts) | A collection of utilities/helpers for TTS modding. |
 
-# Compatible Lua Libraries
+## Compatible Lua Libraries
 
 General purpose Lua libraries which are known to be compatible with Tabletop Simulator.
 
@@ -22,7 +22,7 @@ General purpose Lua libraries which are known to be compatible with Tabletop Sim
 | --- | --- |
 | [Serpent](https://github.com/pkulchenko/serpent) | Lua serializer and pretty printer. |
 
-# External Libraries
+## External Libraries
 
 Libraries which may be useful for building companion tooling that runs outside Tabletop Simulator to help improve the general modding experience.
 

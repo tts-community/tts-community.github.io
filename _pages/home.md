@@ -10,11 +10,11 @@ excerpt: >
   Community developed tools, libraries and guides for Tabletop Simulator.<br />
 feature_row:
   - title: "Guides"
-    excerpt: "Learn how to add various features to your mods."
+    excerpt: "Learn how to create content and add various features to your mods."
     url: "/docs/guides/"
     btn_class: "btn--primary"
     btn_label: "Get Started"
-  - title: "Links"
+  - title: "Libraries"
     excerpt: "Take a look at the community developed libraries and utilities for Tabletop Simulator."
     url: "/docs/libraries/"
     btn_class: "btn--primary"
