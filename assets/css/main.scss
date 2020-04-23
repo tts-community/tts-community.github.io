@@ -1,7 +1,10 @@
 ---
 ---
 
-@import "minimal-mistakes";
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 
 .page, .archive {
   font-size: 12pt;
@@ -17,4 +20,13 @@
   @include breakpoint($x-large) {
     font-size: 15pt;
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0.5em 0 0.35em;
+}
+
+p + h1, p + h2, p + h3, p + h4, p + h5, p + h6,
+table + h1, table + h2, table + h3, table + h4, table + h5, table + h6 {
+  margin: 1.25em 0 0.35em;
 }
