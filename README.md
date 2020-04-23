@@ -12,7 +12,7 @@ If you've got some Tabletop Simulator knowledge you'd like; guides, libraries, l
 
 If you're not familiar with Git, then small changes can be made directly in Github by navigating to the relevant page and pressing the "Edit this file" button
 
-![Contributing via Github](images/edit-this-file.png)
+![Contributing via Github](https://tts-community.github.io/assets/images/edit-this-file.png)
 
 ### Via Git
 
