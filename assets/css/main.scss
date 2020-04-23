@@ -1,0 +1,20 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.page, .archive {
+  font-size: 12pt;
+
+  @include breakpoint($medium) {
+    font-size: 13pt;
+  }
+
+  @include breakpoint($large) {
+    font-size: 14pt;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 15pt;
+  }
+}
