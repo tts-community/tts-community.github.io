@@ -13,10 +13,24 @@ Information to assist with building assets for Tabletop Simulator.
 | Guide | Description |
 | --- | --- |
 | [Converting 2D Images to 3D Models](https://www.youtube.com/watch?v=ows2QTiMRPg) | Video tutorial demonstrating the process of "extruding" a 2D vector graphic (Inkscape) into a 3D model (Blender). |
+| [Asset Creation](https://steamcommunity.com/sharedfiles/filedetails/?id=1343252582) | Extensive and comprehensive guide for creating high quality game assets for TTS using 3D Modelling tools, image editors and Unity. |
+| [Asset Creation Part 3](https://steamcommunity.com/sharedfiles/filedetails/?id=1350305734) | This is part will cover more in depth modelling, unwrapping, texturing, Unity components and how to tie it all together as an asset using LUA scripting. |
+| [Asset Creation Part 4](https://steamcommunity.com/sharedfiles/filedetails/?id=1507294801) | This is part will cover file management, efficient practices, batch importing and hosting solutions. |
+
+### Modding
+
+| Guide | Description |
+| --- | --- |
+| [Universal Blackjack Reboot Modding Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=919849162) | This guide is simply a list of how you can enact changes on certain elements of the table. |
+| [Creating Decks and Sheets](https://steamcommunity.com/sharedfiles/filedetails/?id=1349263773) | Brief guide to everything decks and sheets with the aim to educate on how tiling, sheets and the deck importer works and how to achieve high quality and optimized results. |
 
 ## Scripting
 
-Tabletop Simulator Lua scripting.
+| Guide | Description |
+| --- | --- |
+| [A beginner's guide to scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=714904631) | Learn the basics of how lua works and some of the basic building blocks of programming. |
+| [An intermediate guide to scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=879449506) | This guide is designed to teach you some common uses for Lua. It includes multiple examples of how to use certain functions and common concepts in Tabletop Simulator. |
+| [Useful functions for scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=752690530) | A list of various functions I have written or accrued in order to perform certain actions. Designed to be copy-pasted directly into your code for ease of use. |
 
 ### Tips & Tricks
 
