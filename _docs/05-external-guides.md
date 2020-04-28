@@ -33,7 +33,7 @@ Information to assist with building assets for Tabletop Simulator.
 | [Useful functions for scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=752690530) | A list of various functions I have written or accrued in order to perform certain actions. Designed to be copy-pasted directly into your code for ease of use. |
 | [Toggle Switches](https://steamcommunity.com/sharedfiles/filedetails/?id=1432389368) | A basic guide on how to create simple toggle switches with Lua. |
 
-## XML Scripting
+## XML
 
 | Guide | Description |
 | --- | --- |
