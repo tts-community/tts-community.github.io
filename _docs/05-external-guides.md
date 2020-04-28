@@ -33,15 +33,15 @@ Information to assist with building assets for Tabletop Simulator.
 | [Useful functions for scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=752690530) | A list of various functions I have written or accrued in order to perform certain actions. Designed to be copy-pasted directly into your code for ease of use. |
 | [Toggle Switches](https://steamcommunity.com/sharedfiles/filedetails/?id=1432389368) | A basic guide on how to create simple toggle switches with Lua. |
 
+### Tips & Tricks
+
+| Guide | Description |
+| --- | --- |
+| [Buckwheat's Odds & Ends](https://steamcommunity.com/sharedfiles/filedetails/?id=2036657795) | Lesser-known tips, tricks, bugs, undocumented features etc. |
+
 ## XML
 
 | Guide | Description |
 | --- | --- |
 | [XML Interfaces Part I: Overview](https://steamcommunity.com/sharedfiles/filedetails/?id=1433695655) | A short introduction to XML User Interfaces. Basic knowledge about XML and Lua required. |
 | [XML Interfaces Part II: Building a basic window](https://steamcommunity.com/sharedfiles/filedetails/?id=1435322362) | This guides explains how one can build up a basic window for custom UI and give it functionalities such as minimizing, closing and the ability to be dragged. |
-
-### Tips & Tricks
-
-| Guide | Description |
-| --- | --- |
-| [Buckwheat's Odds & Ends](https://steamcommunity.com/sharedfiles/filedetails/?id=2036657795) | Lesser-known tips, tricks, bugs, undocumented features etc. |
