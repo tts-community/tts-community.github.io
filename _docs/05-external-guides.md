@@ -32,6 +32,7 @@ Information to assist with building assets for Tabletop Simulator.
 | [An intermediate guide to scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=879449506) | This guide is designed to teach you some common uses for Lua. It includes multiple examples of how to use certain functions and common concepts in Tabletop Simulator. |
 | [Useful functions for scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=752690530) | A list of various functions I have written or accrued in order to perform certain actions. Designed to be copy-pasted directly into your code for ease of use. |
 | [Toggle Switches](https://steamcommunity.com/sharedfiles/filedetails/?id=1432389368) | A basic guide on how to create simple toggle switches with Lua. |
+| [Object Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=1433166328) | A guide on how to script object movement. |
 
 ### Tips & Tricks
 
