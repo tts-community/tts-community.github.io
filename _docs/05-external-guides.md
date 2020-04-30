@@ -23,7 +23,6 @@ Information to assist with building assets for Tabletop Simulator.
 | --- | --- |
 | [Universal Blackjack Reboot Modding Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=919849162) | This guide is simply a list of how you can enact changes on certain elements of the table. |
 | [Creating Decks and Sheets](https://steamcommunity.com/sharedfiles/filedetails/?id=1349263773) | Brief guide to everything decks and sheets with the aim to educate on how tiling, sheets and the deck importer works and how to achieve high quality and optimized results. |
-| [Making Backgrounds From Other Games](https://steamcommunity.com/sharedfiles/filedetails/?id=412668837) | This guide will aim at explaining to you how to make backgrounds for tabletop simulator using sceneries from other games. |
 
 ## Lua Scripting
 
