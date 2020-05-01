@@ -2,7 +2,7 @@ main:
   - title: "Guides"
     url: /docs/intro/
   - title: "API"
-    url: https://tts-api.ge.cx
+    url: /api/
   - title: "Libraries"
     url: /docs/libraries/
   - title: "Utilities"
@@ -25,4 +25,4 @@ docs:
     url: /docs/known-issues/
 
   - title: "API"
-    url: https://tts-api.ge.cx
+    url: /api/
