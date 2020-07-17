@@ -1,8 +1,8 @@
 main:
+  - title: "<i class='fab fa-discord'></i>&nbsp; Discord"
+    url: https://discord.gg/xrqynr2
   - title: "Guides"
-    url: /docs/intro/
-  - title: "API"
-    url: /api/
+    url: /docs/guides/
   - title: "Libraries"
     url: /docs/libraries/
   - title: "Utilities"
@@ -10,9 +10,7 @@ main:
 
 docs:
   - title: Guides
-    children:
-      - title: "External Guides"
-        url: /docs/external-guides/
+    url: /docs/guides/
 
   - title: Links
     children:
@@ -23,6 +21,3 @@ docs:
 
   - title: Bugs & Known Issues
     url: /docs/known-issues/
-
-  - title: "API"
-    url: /api/

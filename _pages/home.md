@@ -4,8 +4,10 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   actions:
-    - label: "<i class='fas fa-book'></i>&nbsp;Get Started"
+    - label: "<i class='fas fa-book'></i>&nbsp; Get Started"
       url: "/docs/intro/"
+    - label: "<i class='fab fa-discord'></i>&nbsp; Discord</span>"
+      url: "https://discord.gg/xrqynr2"
 excerpt: >
   Community developed tools, libraries and guides for Tabletop Simulator.<br />
 feature_row:

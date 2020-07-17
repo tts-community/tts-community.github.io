@@ -12,7 +12,7 @@ Libraries specifically written for Tabletop Simulator modding.
 | Library | Description |
 | --- | --- |
 | [Decker](https://github.com/tjakubo2/Decker) | Dynamically create/spawn decks (and cards) with minimal fuss. |
-| [ge_tts](https://gitlab.com/BenjaminDobell/ge_tts) | A collection of utilities/helpers for TTS modding. |
+| [ge_tts](https://gitlab.com/BenjaminDobell/ge_tts) | A framework for building TTS mods, and accompanying utilities. |
 | [RobMayer TTSLibrary](https://github.com/RobMayer/TTSLibrary) | A collection of 3D Objects and images for TTS modding. |
 
 ## Compatible Lua Libraries
