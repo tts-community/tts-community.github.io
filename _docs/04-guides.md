@@ -33,6 +33,12 @@ Information to assist with building assets for Tabletop Simulator.
 
 ## Lua Scripting
 
+### Settup Guides
+
+| Title | Description |
+| --- | --- |
+| [Making your own Module](https://steamcommunity.com/sharedfiles/filedetails/?id=2255706594) | A small guide how to make your own libaries and import them into the game | 
+
 ### Example Mods
 
 | Title | Description |
