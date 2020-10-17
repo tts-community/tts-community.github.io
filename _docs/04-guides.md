@@ -45,6 +45,8 @@ Information to assist with building assets for Tabletop Simulator.
 | --- | --- |
 | [A beginner's guide to scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=714904631) | Learn the basics of how lua works and some of the basic building blocks of programming. |
 | [An intermediate guide to scripting](https://steamcommunity.com/sharedfiles/filedetails/?id=879449506) | This guide is designed to teach you some common uses for Lua. It includes multiple examples of how to use certain functions and common concepts in Tabletop Simulator. |
+| [Making your own Module](https://steamcommunity.com/sharedfiles/filedetails/?id=2255706594) | A small guide how to make your own libaries and import them into the game | 
+
 
 ### Objects / Physics
 
