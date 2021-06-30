@@ -10,6 +10,7 @@ last_modified_at: 2020-03-27T13:30:00+11:00
 | --- | --- |
 | [Atom TTS Plugin](https://github.com/Berserk-Games/atom-tabletopsimulator-lua) | The official Tabletop Simulator IDE, an Atom plugin. |
 | [Luanalysis](https://github.com/Benjamin-Dobell/IntelliJ-Luanalysis) | Jetbrains IntelliJ plugin for statically typed Lua with [TTS API types](https://github.com/Benjamin-Dobell/tts-types). |
+| [Generic IDE TTS](https://github.com/r3gis3r/generic-ide-tabletopsimulator) | Standalone connector to TTS. Integrates well with Jetbrains IntelliJ. |
 
 ## Debugging
 
