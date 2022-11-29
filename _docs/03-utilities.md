@@ -33,3 +33,4 @@ Utilities/tools to improve the mod development experience.
 | --- | --- |
 | [luabundler](https://github.com/Benjamin-Dobell/luabundler) | A command-line Lua bundler (`require()` support) |
 | [tabletop-tools](https://github.com/tomprince/tabletop-tools) | A tool for converting savegames to a directory hierarchy, which enables storing them in a VCS and editing outside of tabletop simulator. |
+| [TTSModManager](https://github.com/argonui/TTSModManager) | A tool for converting savegames to a directory hierarchy, highlights are bundling and github automation. |
