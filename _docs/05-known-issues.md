@@ -22,3 +22,39 @@ If you want to report a bug, rather than just document its existence, it's recom
 | --- | --- |
 | [General Bugs](https://forums.tabletopsimulator.com/forumdisplay.php?36-Bug-Reports) | General Tabletop Simulator bugs. |
 | [Scripting Bugs](https://forums.tabletopsimulator.com/forumdisplay.php?44-Scripting-Bug-Reports) | Scripting (Lua) bugs. |
+
+# Workarounds
+
+## Mod Development
+
+> **My editor (Atom) can't upload scripts to the game**
+
+*Details*
+
+While TTS is running,
+every TCP connection made to port 39999
+should send a complete JSON payload.
+If it matches any of the messages in the [External Editor API],
+it will be accepted.
+Any other message will be ignored.
+
+Now it's easy to forget that there's another failure case
+for incoming connections:
+a timeout.
+If a connection stays open for a long time,
+its message may be outdated.
+It appears TTS addresses this by
+silently ignoring any messages that took over 3 seconds
+to complete their JSON payload.
+
+Things get weird when a connection
+stays open for 3 seconds
+without sending any packets.
+In this case,
+TTS **closes the TCP socket on port 39999**.
+It is only reopened when
+the lobby is reopened.
+
+> Note: The timeouts may not be exactly 3 seconds. In my testing, messages sent within 2.5 seconds were always successful
+
+[External Editor API]: https://api.tabletopsimulator.com/externaleditorapi/#tabletop-simulator-as-the-server
